@@ -9,3 +9,6 @@
 文件命名格式为 number.name.md.
 
 💡💡💡
+
+[695.max-area-of-island](https://github.com/yantanglife/LeetCode/blob/master/600-699/695.max-area-of-island.md)
+
