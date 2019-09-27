@@ -10,9 +10,17 @@
 
 💡💡💡
 
-[124.binary-tree-maximum-path-sum](https://github.com/yantanglife/LeetCode/blob/master/100-199/124.binary-tree-maximum-path-sum.md)
+[50.powx-n](/000-099/50.powx-n.md)
 
-[402.remove-k-digits](https://github.com/yantanglife/LeetCode/blob/master/400-499/402.remove-k-digits.md)
+[124.binary-tree-maximum-path-sum](/100-199/124.binary-tree-maximum-path-sum.md)
+
+[187.repeated-dna-sequences](/100-199/187.repeated-dna-sequences.md)
+
+[402.remove-k-digits](/400-499/402.remove-k-digits.md)
+
+[410.split-array-largest-sum](/400-499/410.split-array-largest-sum.md)
+
+[421.maximum-xor-of-two-numbers-in-an-array](/400-499/421.maximum-xor-of-two-numbers-in-an-array.md)
 
 [695.max-area-of-island](/600-699/695.max-area-of-island.md)
 
