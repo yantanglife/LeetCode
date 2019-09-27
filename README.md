@@ -10,7 +10,7 @@
 
 💡💡💡
 
-[124.binary-tree-maximum-path-sum](https://github.com/yantanglife/LeetCode/blob/master/100-199/124.binary-tree-maximum-path-sum)
-
+[124.binary-tree-maximum-path-sum](https://github.com/yantanglife/LeetCode/blob/master/100-199/124.binary-tree-maximum-path-sum.md)
+[402.remove-k-digits](https://github.com/yantanglife/LeetCode/blob/master/400-499/402.remove-k-digits.md)
 [695.max-area-of-island](https://github.com/yantanglife/LeetCode/blob/master/600-699/695.max-area-of-island.md)
 
