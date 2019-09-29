@@ -22,5 +22,5 @@
 
 [421.maximum-xor-of-two-numbers-in-an-array](/400-499/421.maximum-xor-of-two-numbers-in-an-array.md)
 
-[695.max-area-of-island](/600-699/695.max-area-of-island.md)
-
+[695.max-area-of-island](/600-699/695.max-area-of-island.md)   
+[934.shortest-bridge](/900-999/934.shortest-bridge.md)
