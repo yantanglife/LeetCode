@@ -12,6 +12,7 @@
 
 [50.powx-n](/000-099/50.powx-n.md)   
 [124.binary-tree-maximum-path-sum](/100-199/124.binary-tree-maximum-path-sum.md)   
+[162.find-peak-element](/100/199/162.find-peak-element.md)     
 [187.repeated-dna-sequences](/100-199/187.repeated-dna-sequences.md)   
 [402.remove-k-digits](/400-499/402.remove-k-digits.md)    
 [410.split-array-largest-sum](/400-499/410.split-array-largest-sum.md)   
