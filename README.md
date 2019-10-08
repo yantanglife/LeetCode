@@ -12,6 +12,7 @@
 
 [50.powx-n](/000-099/50.powx-n.md)    
 [124.binary-tree-maximum-path-sum](/100-199/124.binary-tree-maximum-path-sum.md)    
+[142.linked-list-cycle-ii](/100-199/142.linked-list-cycle-ii.md)    
 [162.find-peak-element](/100-199/162.find-peak-element.md)    
 [187.repeated-dna-sequences](/100-199/187.repeated-dna-sequences.md)    
 [209.minimum-size-subarray-sum](/200-299/209.minimum-size-subarray-sum.md)    
