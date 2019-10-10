@@ -10,6 +10,7 @@
 
 💡💡💡
 
+[42.trapping-rain-water](/000-099/42.trapping-rain-water.md)    
 [50.powx-n](/000-099/50.powx-n.md)    
 [124.binary-tree-maximum-path-sum](/100-199/124.binary-tree-maximum-path-sum.md)    
 [142.linked-list-cycle-ii](/100-199/142.linked-list-cycle-ii.md)    
@@ -20,6 +21,7 @@
 [402.remove-k-digits](/400-499/402.remove-k-digits.md)    
 [410.split-array-largest-sum](/400-499/410.split-array-largest-sum.md)    
 [421.maximum-xor-of-two-numbers-in-an-array](/400-499/421.maximum-xor-of-two-numbers-in-an-array.md)    
+[543.diameter-of-binary-tree](/500-599/543.diameter-of-binary-tree.md)    
 [560.subarray-sum-equals-k](/500-599/560.subarray-sum-equals-k.md)    
 [647.palindromic-substrings](/600-699/647.palindromic-substrings.md)    
 [695.max-area-of-island](/600-699/695.max-area-of-island.md)    
