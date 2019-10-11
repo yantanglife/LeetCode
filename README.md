@@ -10,6 +10,7 @@
 
 💡💡💡
 
+[3.longest-substring-without-repeating-charaters](/000-099/3.longest-substring-without-repeating-charaters.md)    
 [42.trapping-rain-water](/000-099/42.trapping-rain-water.md)    
 [50.powx-n](/000-099/50.powx-n.md)    
 [124.binary-tree-maximum-path-sum](/100-199/124.binary-tree-maximum-path-sum.md)    
