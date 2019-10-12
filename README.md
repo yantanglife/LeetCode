@@ -14,6 +14,7 @@
 [42.trapping-rain-water](/000-099/42.trapping-rain-water.md)    
 [50.powx-n](/000-099/50.powx-n.md)    
 [124.binary-tree-maximum-path-sum](/100-199/124.binary-tree-maximum-path-sum.md)    
+[128.longest-consecutive-sequence](/100-199/128.longest-consecutive-sequence.md)    
 [139.word-break](/100-199/139.word-break.md)    
 [142.linked-list-cycle-ii](/100-199/142.linked-list-cycle-ii.md)    
 [152.maximum-product-subarray](/100-199/152.maximum-product-subarray.md)    
