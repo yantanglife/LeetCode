@@ -16,6 +16,7 @@
 [124.binary-tree-maximum-path-sum](/100-199/124.binary-tree-maximum-path-sum.md)    
 [142.linked-list-cycle-ii](/100-199/142.linked-list-cycle-ii.md)    
 [152.maximum-product-subarray](/100-199/152.maximum-product-subarray.md)    
+[160.intersection-of-two-linked-lists](/100-199/160.intersection-of-two-linked-lists.md)    
 [162.find-peak-element](/100-199/162.find-peak-element.md)    
 [169.majority-element](/100-199/169.majority-element.md)    
 [187.repeated-dna-sequences](/100-199/187.repeated-dna-sequences.md)    
