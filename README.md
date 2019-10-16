@@ -10,8 +10,8 @@
 
 💡💡💡
 
-[17.letter-combinations-of-a-phone-number](/000-099/17.letter-combinations-of-a-phone-number.md)    
 [3.longest-substring-without-repeating-charaters](/000-099/3.longest-substring-without-repeating-charaters.md)    
+[17.letter-combinations-of-a-phone-number](/000-099/17.letter-combinations-of-a-phone-number.md)    
 [42.trapping-rain-water](/000-099/42.trapping-rain-water.md)    
 [50.powx-n](/000-099/50.powx-n.md)    
 [124.binary-tree-maximum-path-sum](/100-199/124.binary-tree-maximum-path-sum.md)    
@@ -29,6 +29,7 @@
 [215.kth-largest-element-in-an-array](/200-299/215.kth-largest-element-in-an-array.md)    
 [221.maximal-square](/200-299/221.maximal-square.md)    
 [234.palindrome-linked-list](/200-299/234.palindrome-linked-list.md)    
+[338.counting-bits](/300-399/338.counting-bits.md)    
 [347.top-k-frequent-elements](/300-399/347.top-k-frequent-elements.md)    
 [394.decode-string](/300-399/394.decode-string.md)    
 [402.remove-k-digits](/400-499/402.remove-k-digits.md)    
