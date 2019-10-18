@@ -14,6 +14,7 @@
 [17.letter-combinations-of-a-phone-number](/000-099/17.letter-combinations-of-a-phone-number.md)    
 [33.search-in-rotated-sorted-array](/000-099/33.search-in-rotated-sorted-array.md)    
 [42.trapping-rain-water](/000-099/42.trapping-rain-water.md)    
+[48.rotate-image](/000-099/48.rotate-image.md)    
 [50.powx-n](/000-099/50.powx-n.md)    
 [124.binary-tree-maximum-path-sum](/100-199/124.binary-tree-maximum-path-sum.md)    
 [128.longest-consecutive-sequence](/100-199/128.longest-consecutive-sequence.md)    
