@@ -35,6 +35,7 @@
 [215.kth-largest-element-in-an-array](/200-299/215.kth-largest-element-in-an-array.md)    
 [221.maximal-square](/200-299/221.maximal-square.md)    
 [234.palindrome-linked-list](/200-299/234.palindrome-linked-list.md)    
+[334.increasing-triplet-subsequence](/300-399/334.increasing-triplet-subsequence.md)    
 [338.counting-bits](/300-399/338.counting-bits.md)    
 [347.top-k-frequent-elements](/300-399/347.top-k-frequent-elements.md)    
 [350.intersection-of-two-arrays-ii](/300-399/350.intersection-of-two-arrays-ii.md)    
