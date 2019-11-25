@@ -37,6 +37,7 @@
 [234.palindrome-linked-list](/200-299/234.palindrome-linked-list.md)    
 [338.counting-bits](/300-399/338.counting-bits.md)    
 [347.top-k-frequent-elements](/300-399/347.top-k-frequent-elements.md)    
+[350.intersection-of-two-arrays-ii](/300-399/350.intersection-of-two-arrays-ii.md)    
 [371.sum-of-two-integers](/300-399/371.sum-of-two-integers.md)    
 [394.decode-string](/300-399/394.decode-string.md)    
 [395.longest-substring-with-at-least-k-repeating-characters](/300-399/395.longest-substring-with-at-least-k-repeating-characters.md)    
