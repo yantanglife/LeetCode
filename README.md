@@ -24,6 +24,7 @@
 [139.word-break](/100-199/139.word-break.md)    
 [142.linked-list-cycle-ii](/100-199/142.linked-list-cycle-ii.md)    
 [148.sort-list](/100-199/148.sort-list.md)    
+[150.evaluate-reverse-polish-notation](/100-199/150.evaluate-reverse-polish-notation.md)    
 [152.maximum-product-subarray](/100-199/152.maximum-product-subarray.md)    
 [160.intersection-of-two-linked-lists](/100-199/160.intersection-of-two-linked-lists.md)    
 [162.find-peak-element](/100-199/162.find-peak-element.md)    
