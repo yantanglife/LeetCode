@@ -45,6 +45,7 @@
 [328.odd-even-linked-list](/300-399/328.odd-even-linked-list.md)    
 [334.increasing-triplet-subsequence](/300-399/334.increasing-triplet-subsequence.md)    
 [338.counting-bits](/300-399/338.counting-bits.md)    
+[341.flatten-nested-list-iterator](/300-399/341.flatten-nested-list-iterator.md)    
 [347.top-k-frequent-elements](/300-399/347.top-k-frequent-elements.md)    
 [350.intersection-of-two-arrays-ii](/300-399/350.intersection-of-two-arrays-ii.md)    
 [371.sum-of-two-integers](/300-399/371.sum-of-two-integers.md)    
