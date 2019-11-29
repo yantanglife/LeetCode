@@ -41,6 +41,7 @@
 [215.kth-largest-element-in-an-array](/200-299/215.kth-largest-element-in-an-array.md)    
 [221.maximal-square](/200-299/221.maximal-square.md)    
 [234.palindrome-linked-list](/200-299/234.palindrome-linked-list.md)    
+[268.missing-number](/200-299/268.missing-number.md)    
 [289.game-of-life](/200-299/289.game-of-life.md)    
 [328.odd-even-linked-list](/300-399/328.odd-even-linked-list.md)    
 [334.increasing-triplet-subsequence](/300-399/334.increasing-triplet-subsequence.md)    
