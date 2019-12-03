@@ -13,6 +13,7 @@
 [3.longest-substring-without-repeating-charaters](/000-099/3.longest-substring-without-repeating-charaters.md)    
 [15.3sum](/000-099/15.3sum.md)    
 [17.letter-combinations-of-a-phone-number](/000-099/17.letter-combinations-of-a-phone-number.md)    
+[18.4sum](/000-099/18.4sum.md)    
 [33.search-in-rotated-sorted-array](/000-099/33.search-in-rotated-sorted-array.md)    
 [42.trapping-rain-water](/000-099/42.trapping-rain-water.md)    
 [48.rotate-image](/000-099/48.rotate-image.md)    
