@@ -43,6 +43,7 @@
 [198.house-robber  打家劫舍](/100-199/198.house-robber.md)    
 [200.number-of-islands  岛屿数量](/200-299/200.number-of-islands.md)    
 [202.happy-number  快乐数](/200-299/202.happy-number.md)    
+[204.count-primes  计数质数](/200-299/204.count-primes.md)    
 [207.course-schedule  课程表](/200-299/207.course-schedule.md)    
 [209.minimum-size-subarray-sum  长度最小的子数组](/200-299/209.minimum-size-subarray-sum.md)    
 [215.kth-largest-element-in-an-array  数组中的第K个最大元素](/200-299/215.kth-largest-element-in-an-array.md)    
