@@ -39,6 +39,7 @@
 [179.largest-number  最大数](/100-199/179.largest-number.md)    
 [187.repeated-dna-sequences  重复的DNA序列](/100-199/187.repeated-dna-sequences.md)    
 [189.rotate-array  旋转数组](/100-199/189.rotate-array.md)    
+[190.reverse-bits  颠倒二进制位](/100-199/190.reverse-bits.md)    
 [191.number-of-1-bits  位1的个数](/100-199/191.number-of-1-bits.md)    
 [198.house-robber  打家劫舍](/100-199/198.house-robber.md)    
 [200.number-of-islands  岛屿数量](/200-299/200.number-of-islands.md)    
