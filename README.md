@@ -63,6 +63,7 @@
 [350.intersection-of-two-arrays-ii  两个数组的交集 II](/300-399/350.intersection-of-two-arrays-ii.md)    
 [371.sum-of-two-integers  两整数之和](/300-399/371.sum-of-two-integers.md)    
 [378.kth-smallest-element-in-a-sorted-matrix  有序矩阵中第K小的元素](/300-399/378.kth-smallest-element-in-a-sorted-matrix.md)    
+[387.first-unique-character-in-a-string  字符串中的第一个唯一字符](/300-399/387.first-unique-character-in-a-string.md)    
 [394.decode-string  字符串解码](/300-399/394.decode-string.md)    
 [395.longest-substring-with-at-least-k-repeating-characters  至少有K个重复字符的最长子串](/300-399/395.longest-substring-with-at-least-k-repeating-characters.md)    
 [402.remove-k-digits  移掉K位数字](/400-499/402.remove-k-digits.md)    
