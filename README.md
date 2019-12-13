@@ -15,6 +15,7 @@
 [15.3sum  三数之和](/000-099/15.3sum.md)    
 [17.letter-combinations-of-a-phone-number  电话号码的字母组合](/000-099/17.letter-combinations-of-a-phone-number.md)    
 [18.4sum  四数之和](/000-099/18.4sum.md)    
+[29.divide-two-integers  两数相除](/000-099/29.divide-two-integers.md)    
 [33.search-in-rotated-sorted-array  搜索旋转排序数组](/000-099/33.search-in-rotated-sorted-array.md)    
 [42.trapping-rain-water  接雨水](/000-099/42.trapping-rain-water.md)    
 [48.rotate-image  旋转图像](/000-099/48.rotate-image.md)    
