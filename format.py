@@ -24,8 +24,13 @@ def trans2link(file):
 if __name__ == "__main__":
     print("Start...")
     start_time = time()
-    target_file_path = "README.md"
-    dirs = os.listdir()
+    '''
+    FIX file path error.
+    file needs to be accurately located, Like '..../Leetcode'.
+    '''
+    upper_path = os.path.abspath(os.path.dirname(__file__) + os.path.sep + ".")
+    target_file_path = os.path.join(upper_path, "README.md")
+    dirs = os.listdir(upper_path)
     dirs.sort()
     all_files = []
 
@@ -33,7 +38,8 @@ if __name__ == "__main__":
     for dir_ in dirs:
         # DIRs like "000-099".
         if dir_.find('-') > 0:
-            files = os.listdir(dir_)
+            # use complete path.
+            files = os.listdir(os.path.join(upper_path, dir_))
             if len(files):
                 '''
                 1.Here, notice this two strings: 10.file1 < 3.file2.
@@ -49,7 +55,7 @@ if __name__ == "__main__":
                 Add Chinese title. 2019.12.04
                 '''
                 for file in files:
-                    with open(os.path.join(dir_, file), 'r', encoding='utf-8') as fm:
+                    with open(os.path.join(upper_path, dir_, file), 'r', encoding='utf-8') as fm:
                         number = file[:file.find('.')]
                         # [LeetCode - 378. 有序矩阵中第K小的元素]
                         pattern_c = re.compile(r'\[LeetCode.*' + number + r'\.(.*)\]')
