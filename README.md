@@ -11,6 +11,7 @@
 💡💡💡
 
 [3.longest-substring-without-repeating-charaters  无重复字符的最长子串](/000-099/3.longest-substring-without-repeating-charaters.md)    
+[8.string-to-integer-atoi  字符串转换整数 (atoi)](/000-099/8.string-to-integer-atoi.md)    
 [11.container-with-most-water  盛最多水的容器](/000-099/11.container-with-most-water.md)    
 [15.3sum  三数之和](/000-099/15.3sum.md)    
 [17.letter-combinations-of-a-phone-number  电话号码的字母组合](/000-099/17.letter-combinations-of-a-phone-number.md)    
