@@ -21,6 +21,7 @@
 [42.trapping-rain-water  接雨水](/000-099/42.trapping-rain-water.md)    
 [48.rotate-image  旋转图像](/000-099/48.rotate-image.md)    
 [50.powx-n  Pow(x, n)](/000-099/50.powx-n.md)    
+[65.valid-number  有效数字](/000-099/65.valid-number.md)    
 [91.decode-ways  解码方法](/000-099/91.decode-ways.md)    
 [123.best-time-to-buy-and-sell-stock-iii  买卖股票的最佳时机 III](/100-199/123.best-time-to-buy-and-sell-stock-iii.md)    
 [124.binary-tree-maximum-path-sum  二叉树中的最大路径和](/100-199/124.binary-tree-maximum-path-sum.md)    
