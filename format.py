@@ -28,7 +28,7 @@ if __name__ == "__main__":
     FIX file path error.
     file needs to be accurately located, Like '..../Leetcode'.
     '''
-    upper_path = os.path.abspath(os.path.dirname(__file__) + os.path.sep + ".")
+    upper_path = os.path.abspath(os.path.dirname(__file__))
     target_file_path = os.path.join(upper_path, "README.md")
     dirs = os.listdir(upper_path)
     dirs.sort()

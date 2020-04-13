@@ -70,6 +70,7 @@
 [387.first-unique-character-in-a-string  字符串中的第一个唯一字符](/300-399/387.first-unique-character-in-a-string.md)    
 [394.decode-string  字符串解码](/300-399/394.decode-string.md)    
 [395.longest-substring-with-at-least-k-repeating-characters  至少有K个重复字符的最长子串](/300-399/395.longest-substring-with-at-least-k-repeating-characters.md)    
+[400.nth-digit  第N个数字](/400-499/400.nth-digit.md)    
 [402.remove-k-digits  移掉K位数字](/400-499/402.remove-k-digits.md)    
 [406.queue-reconstruction-by-height  根据身高重建队列](/400-499/406.queue-reconstruction-by-height.md)    
 [410.split-array-largest-sum  分割数组的最大值](/400-499/410.split-array-largest-sum.md)    
