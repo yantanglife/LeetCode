@@ -62,6 +62,7 @@
 [334.increasing-triplet-subsequence  递增的三元子序列](/300-399/334.increasing-triplet-subsequence.md)    
 [338.counting-bits  比特位计数](/300-399/338.counting-bits.md)    
 [341.flatten-nested-list-iterator  扁平化嵌套列表迭代器](/300-399/341.flatten-nested-list-iterator.md)    
+[343.integer-break  整数拆分](/300-399/343.integer-break.md)    
 [347.top-k-frequent-elements  前 K 个高频元素](/300-399/347.top-k-frequent-elements.md)    
 [350.intersection-of-two-arrays-ii  两个数组的交集 II](/300-399/350.intersection-of-two-arrays-ii.md)    
 [371.sum-of-two-integers  两整数之和](/300-399/371.sum-of-two-integers.md)    
