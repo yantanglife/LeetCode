@@ -23,6 +23,7 @@
 [50.powx-n  Pow(x, n)](/000-099/50.powx-n.md)    
 [65.valid-number  有效数字](/000-099/65.valid-number.md)    
 [91.decode-ways  解码方法](/000-099/91.decode-ways.md)    
+[105.construct-binary-tree-from-preorder-and-inorder-traversal  从前序与中序遍历序列构造二叉树](/100-199/105.construct-binary-tree-from-preorder-and-inorder-traversal.md)    
 [123.best-time-to-buy-and-sell-stock-iii  买卖股票的最佳时机 III](/100-199/123.best-time-to-buy-and-sell-stock-iii.md)    
 [124.binary-tree-maximum-path-sum  二叉树中的最大路径和](/100-199/124.binary-tree-maximum-path-sum.md)    
 [128.longest-consecutive-sequence  最长连续序列](/100-199/128.longest-consecutive-sequence.md)    
