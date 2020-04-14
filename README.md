@@ -22,6 +22,7 @@
 [48.rotate-image  旋转图像](/000-099/48.rotate-image.md)    
 [50.powx-n  Pow(x, n)](/000-099/50.powx-n.md)    
 [65.valid-number  有效数字](/000-099/65.valid-number.md)    
+[79.word-search  单词搜索](/000-099/79.word-search.md)    
 [91.decode-ways  解码方法](/000-099/91.decode-ways.md)    
 [105.construct-binary-tree-from-preorder-and-inorder-traversal  从前序与中序遍历序列构造二叉树](/100-199/105.construct-binary-tree-from-preorder-and-inorder-traversal.md)    
 [123.best-time-to-buy-and-sell-stock-iii  买卖股票的最佳时机 III](/100-199/123.best-time-to-buy-and-sell-stock-iii.md)    
