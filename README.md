@@ -88,3 +88,4 @@
 [739.daily-temperatures  每日温度](/700-799/739.daily-temperatures.md)    
 [902.numbers-at-most-n-given-digit-set  最大为 N 的数字组合](/900-999/902.numbers-at-most-n-given-digit-set.md)    
 [934.shortest-bridge  最短的桥](/900-999/934.shortest-bridge.md)    
+[946.validate-stack-sequences  验证栈序列](/900-999/946.validate-stack-sequences.md)    
