@@ -54,6 +54,7 @@
 [209.minimum-size-subarray-sum  长度最小的子数组](/200-299/209.minimum-size-subarray-sum.md)    
 [215.kth-largest-element-in-an-array  数组中的第K个最大元素](/200-299/215.kth-largest-element-in-an-array.md)    
 [221.maximal-square  最大正方形](/200-299/221.maximal-square.md)    
+[233.number-of-digit-one  数字 1 的个数](/200-299/233.number-of-digit-one.md)    
 [234.palindrome-linked-list  回文链表](/200-299/234.palindrome-linked-list.md)    
 [238.product-of-array-except-self  除自身以外数组的乘积](/200-299/238.product-of-array-except-self.md)    
 [240.search-a-2d-matrix-ii  搜索二维矩阵 II](/200-299/240.search-a-2d-matrix-ii.md)    
